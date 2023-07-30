@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import "hardhat/console.sol";
-
+// checking git works for my gh profile
 contract Token {
     string public name;
     string public symbol;
